@@ -1,0 +1,14 @@
+h3 {
+    color: rgba(255, 0, 0, 1);
+}
+.box {
+    padding-left: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 162px;
+    height: 235px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    margin: 70px;
+}
+img {
+    margin-top: 1px;
+    margin-left: 50px;}
